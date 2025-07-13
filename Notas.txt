@@ -1,0 +1,4 @@
+Ejecuta cada prueba con:
+python tests/test_red_neuronal.py
+
+

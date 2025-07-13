@@ -1,0 +1,806 @@
+2025-06-23 18:17:16,799 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: administrativo
+2025-06-23 18:17:16,800 - SistemaAdaptativo - INFO - Transici髇 completada: hibrido -> administrativo
+2025-06-23 18:17:16,832 - GestorTareas - INFO - Tarea 93cbdaa0-9d01-4ef4-96f7-32d3b8ff36a7 agregada al dominio administrativo
+2025-06-23 18:17:16,841 - GestorTareas - INFO - Tarea 93cbdaa0-9d01-4ef4-96f7-32d3b8ff36a7 completada exitosamente
+2025-06-23 18:17:17,391 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: militar
+2025-06-23 18:17:17,408 - SistemaAdaptativo - INFO - Transici髇 completada: administrativo -> militar
+2025-06-23 18:17:17,539 - GestorTareas - INFO - Tarea 0f96cc3f-72f1-4388-b8f0-18767200ecf5 agregada al dominio militar
+2025-06-23 18:17:17,557 - GestorTareas - INFO - Tarea 0f96cc3f-72f1-4388-b8f0-18767200ecf5 completada exitosamente
+2025-06-23 18:17:17,748 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: hibrido
+2025-06-23 18:17:17,749 - SistemaAdaptativo - INFO - Transici髇 completada: militar -> hibrido
+2025-06-23 18:17:17,847 - GestorTareas - INFO - Tarea 93fffb05-6505-4313-8965-bd810ed61329 agregada al dominio administrativo
+2025-06-23 18:17:17,864 - GestorTareas - INFO - Tarea 93fffb05-6505-4313-8965-bd810ed61329 completada exitosamente
+2025-06-23 18:17:18,039 - GestorTareas - INFO - Tarea aa310234-11cf-4d89-bffa-672337605092 agregada al dominio militar
+2025-06-23 18:17:18,067 - GestorTareas - INFO - Tarea aa310234-11cf-4d89-bffa-672337605092 completada exitosamente
+2025-06-23 18:33:14,852 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: administrativo
+2025-06-23 18:33:14,859 - SistemaAdaptativo - INFO - Transici髇 completada: hibrido -> administrativo
+2025-06-23 18:33:14,888 - GestorTareas - INFO - Tarea 3c2b364c-8262-49b0-afd8-3fe3d5678f38 agregada al dominio administrativo
+2025-06-23 18:33:14,937 - GestorTareas - INFO - Tarea 3c2b364c-8262-49b0-afd8-3fe3d5678f38 completada exitosamente
+2025-06-23 18:33:15,059 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: militar
+2025-06-23 18:33:15,059 - SistemaAdaptativo - INFO - Transici髇 completada: administrativo -> militar
+2025-06-23 18:33:15,073 - GestorTareas - INFO - Tarea 3af5e14f-2810-433e-8013-82dd4b626e99 agregada al dominio militar
+2025-06-23 18:33:15,148 - GestorTareas - INFO - Tarea 3af5e14f-2810-433e-8013-82dd4b626e99 completada exitosamente
+2025-06-23 18:33:15,189 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: hibrido
+2025-06-23 18:33:15,190 - SistemaAdaptativo - INFO - Transici髇 completada: militar -> hibrido
+2025-06-23 18:33:15,201 - GestorTareas - INFO - Tarea b0507a3a-5366-42c0-8240-098cb22d4ae7 agregada al dominio administrativo
+2025-06-23 18:33:15,249 - GestorTareas - INFO - Tarea b0507a3a-5366-42c0-8240-098cb22d4ae7 completada exitosamente
+2025-06-23 18:33:15,371 - GestorTareas - INFO - Tarea 880f08a2-a553-465e-b375-1d96a75d2e1c agregada al dominio militar
+2025-06-23 18:33:15,461 - GestorTareas - INFO - Tarea 880f08a2-a553-465e-b375-1d96a75d2e1c completada exitosamente
+2025-06-23 18:42:44,692 - AriaUniversal - INFO - Iniciando Sistema IA Aria Universal...
+2025-06-23 18:42:46,261 - AriaUniversal - INFO - Sistema Aria Universal inicializado correctamente
+2025-06-23 18:42:46,262 - AriaUniversal - INFO - Iniciando demostracion de capacidades...
+2025-06-23 18:42:46,262 - AriaUniversal - INFO - Demostrando capacidades administrativas...
+2025-06-23 18:42:46,262 - SistemaAdaptativo - INFO - Cambiando modo de operaci贸n a: administrativo
+2025-06-23 18:42:46,263 - SistemaAdaptativo - INFO - Transici贸n completada: hibrido -> administrativo
+2025-06-23 18:42:46,263 - AriaUniversal - INFO - Modo cambiado a: administrativo
+2025-06-23 18:42:46,263 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-23 18:42:46,264 - GestorTareas - INFO - Tarea 6d8768b1-ac45-4818-9d5a-ea485a394b14 agregada al dominio administrativo
+2025-06-23 18:42:46,360 - GestorTareas - INFO - Tarea 6d8768b1-ac45-4818-9d5a-ea485a394b14 completada exitosamente
+2025-06-23 18:42:46,365 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 18:42:46,365 - AriaUniversal - INFO - Resultado administrativo: True
+2025-06-23 18:42:46,366 - AriaUniversal - INFO - Demostrando capacidades militares...
+2025-06-23 18:42:46,367 - SistemaAdaptativo - INFO - Cambiando modo de operaci贸n a: militar
+2025-06-23 18:42:46,367 - SistemaAdaptativo - INFO - Transici贸n completada: administrativo -> militar
+2025-06-23 18:42:46,368 - AriaUniversal - INFO - Modo cambiado a: militar
+2025-06-23 18:42:46,369 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-23 18:42:46,370 - GestorTareas - INFO - Tarea 13552092-b32b-44fc-8460-d3bc800faa40 agregada al dominio militar
+2025-06-23 18:42:46,462 - GestorTareas - INFO - Tarea 13552092-b32b-44fc-8460-d3bc800faa40 completada exitosamente
+2025-06-23 18:42:46,471 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 18:42:46,471 - AriaUniversal - INFO - Resultado militar: True
+2025-06-23 18:42:46,472 - AriaUniversal - INFO - Demostrando modo hibrido...
+2025-06-23 18:42:46,476 - SistemaAdaptativo - INFO - Cambiando modo de operaci贸n a: hibrido
+2025-06-23 18:42:46,477 - SistemaAdaptativo - INFO - Transici贸n completada: militar -> hibrido
+2025-06-23 18:42:46,481 - AriaUniversal - INFO - Modo cambiado a: hibrido
+2025-06-23 18:42:46,481 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-23 18:42:46,482 - GestorTareas - INFO - Tarea e5a788b7-dcf4-43f8-a6dc-5ea42d956ff8 agregada al dominio administrativo
+2025-06-23 18:42:46,563 - GestorTareas - INFO - Tarea e5a788b7-dcf4-43f8-a6dc-5ea42d956ff8 completada exitosamente
+2025-06-23 18:42:46,589 - AriaUniversal - INFO - Solicitud procesada en 0.11s
+2025-06-23 18:42:46,594 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-23 18:42:46,596 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-23 18:42:46,599 - GestorTareas - INFO - Tarea 4235e0f0-def6-4cf3-a3aa-3e0a9a35733b agregada al dominio militar
+2025-06-23 18:42:46,671 - GestorTareas - INFO - Tarea 4235e0f0-def6-4cf3-a3aa-3e0a9a35733b completada exitosamente
+2025-06-23 18:42:46,702 - AriaUniversal - INFO - Solicitud procesada en 0.11s
+2025-06-23 18:42:46,704 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-23 18:42:46,705 - AriaUniversal - INFO - Reporte final generado
+2025-06-23 18:43:35,537 - AriaUniversal - INFO - Iniciando Sistema IA Aria Universal...
+2025-06-23 18:43:36,951 - AriaUniversal - INFO - Sistema Aria Universal inicializado correctamente
+2025-06-23 18:43:36,952 - AriaUniversal - INFO - Iniciando demostracion de capacidades...
+2025-06-23 18:43:36,952 - AriaUniversal - INFO - Demostrando capacidades administrativas...
+2025-06-23 18:43:36,953 - SistemaAdaptativo - INFO - Cambiando modo de operaci贸n a: administrativo
+2025-06-23 18:43:36,954 - SistemaAdaptativo - INFO - Transici贸n completada: hibrido -> administrativo
+2025-06-23 18:43:36,955 - AriaUniversal - INFO - Modo cambiado a: administrativo
+2025-06-23 18:43:36,956 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-23 18:43:36,957 - GestorTareas - INFO - Tarea 6e21083b-5f10-499c-9ad6-b7280b3be58d agregada al dominio administrativo
+2025-06-23 18:43:37,046 - GestorTareas - INFO - Tarea 6e21083b-5f10-499c-9ad6-b7280b3be58d completada exitosamente
+2025-06-23 18:43:37,069 - AriaUniversal - INFO - Solicitud procesada en 0.11s
+2025-06-23 18:43:37,072 - AriaUniversal - INFO - Resultado administrativo: True
+2025-06-23 18:43:37,081 - AriaUniversal - INFO - Demostrando capacidades militares...
+2025-06-23 18:43:37,087 - SistemaAdaptativo - INFO - Cambiando modo de operaci贸n a: militar
+2025-06-23 18:43:37,094 - SistemaAdaptativo - INFO - Transici贸n completada: administrativo -> militar
+2025-06-23 18:43:37,097 - AriaUniversal - INFO - Modo cambiado a: militar
+2025-06-23 18:43:37,099 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-23 18:43:37,101 - GestorTareas - INFO - Tarea 343210a7-36d6-4e93-bbf8-f1aad570af7a agregada al dominio militar
+2025-06-23 18:43:37,147 - GestorTareas - INFO - Tarea 343210a7-36d6-4e93-bbf8-f1aad570af7a completada exitosamente
+2025-06-23 18:43:37,208 - AriaUniversal - INFO - Solicitud procesada en 0.11s
+2025-06-23 18:43:37,208 - AriaUniversal - INFO - Resultado militar: True
+2025-06-23 18:43:37,209 - AriaUniversal - INFO - Demostrando modo hibrido...
+2025-06-23 18:43:37,209 - SistemaAdaptativo - INFO - Cambiando modo de operaci贸n a: hibrido
+2025-06-23 18:43:37,210 - SistemaAdaptativo - INFO - Transici贸n completada: militar -> hibrido
+2025-06-23 18:43:37,210 - AriaUniversal - INFO - Modo cambiado a: hibrido
+2025-06-23 18:43:37,210 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-23 18:43:37,211 - GestorTareas - INFO - Tarea 2a9e072c-c028-4091-825d-322a52588a75 agregada al dominio administrativo
+2025-06-23 18:43:37,248 - GestorTareas - INFO - Tarea 2a9e072c-c028-4091-825d-322a52588a75 completada exitosamente
+2025-06-23 18:43:37,317 - AriaUniversal - INFO - Solicitud procesada en 0.11s
+2025-06-23 18:43:37,319 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-23 18:43:37,320 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-23 18:43:37,321 - GestorTareas - INFO - Tarea 2df3d7b0-cc09-45c6-bf56-260a723663a0 agregada al dominio militar
+2025-06-23 18:43:37,355 - GestorTareas - INFO - Tarea 2df3d7b0-cc09-45c6-bf56-260a723663a0 completada exitosamente
+2025-06-23 18:43:37,423 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 18:43:37,424 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-23 18:43:37,426 - AriaUniversal - INFO - Reporte final generado
+2025-06-23 19:00:14,467 - AriaIntegrada - INFO - Iniciando Sistema IA Aria Integrado...
+2025-06-23 19:00:16,211 - ConexionLocal - INFO - Conexi贸n local inicializada
+2025-06-23 19:00:16,212 - AriaIntegrada - ERROR - Error inicializando conexi贸n local: 'AriaIntegrada' object has no attribute 'estadisticas'
+2025-06-23 19:00:16,212 - ConexionNube - INFO - Conexi贸n nube inicializada
+2025-06-23 19:00:16,214 - AriaIntegrada - ERROR - Error inicializando conexi贸n nube: 'AriaIntegrada' object has no attribute 'estadisticas'
+2025-06-23 19:00:16,214 - ConexionOneDrive - INFO - Conexi贸n OneDrive inicializada
+2025-06-23 19:00:16,215 - AriaIntegrada - ERROR - Error inicializando conexi贸n onedrive: 'AriaIntegrada' object has no attribute 'estadisticas'
+2025-06-23 19:00:16,215 - ConexionSD - INFO - Conexi贸n SD inicializada
+2025-06-23 19:00:16,216 - AriaIntegrada - ERROR - Error inicializando conexi贸n sd: 'AriaIntegrada' object has no attribute 'estadisticas'
+2025-06-23 19:00:16,216 - ConexionServidor - INFO - Conexi贸n servidor inicializada (localhost:8080)
+2025-06-23 19:00:16,217 - AriaIntegrada - ERROR - Error inicializando conexi贸n servidor: 'AriaIntegrada' object has no attribute 'estadisticas'
+2025-06-23 19:00:16,227 - Contenedor - ERROR - Error ejecutando comando Docker: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-06-23 19:00:16,227 - Contenedor - ERROR - Docker no disponible: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-06-23 19:00:16,228 - AriaIntegrada - WARNING - No se pudo inicializar conexi贸n contenedor
+2025-06-23 19:00:16,228 - AriaIntegrada - INFO - Sistema Aria Integrado inicializado correctamente
+2025-06-23 19:00:16,229 - AriaIntegrada - INFO - Deteniendo Sistema Aria Integrado...
+2025-06-23 19:00:16,230 - SistemaAdaptativo - INFO - Iniciando detenci贸n del sistema...
+2025-06-23 19:00:26,191 - SistemaAdaptativo - INFO - Sistema detenido correctamente
+2025-06-23 19:00:26,196 - ConexionLocal - INFO - Conexi贸n local cerrada
+2025-06-23 19:00:26,197 - AriaIntegrada - INFO - Conexi贸n local cerrada
+2025-06-23 19:00:26,198 - ConexionNube - INFO - Conexi贸n nube cerrada
+2025-06-23 19:00:26,205 - AriaIntegrada - INFO - Conexi贸n nube cerrada
+2025-06-23 19:00:26,207 - ConexionOneDrive - INFO - Conexi贸n OneDrive cerrada
+2025-06-23 19:00:26,209 - AriaIntegrada - INFO - Conexi贸n onedrive cerrada
+2025-06-23 19:00:26,210 - ConexionSD - INFO - Conexi贸n SD cerrada
+2025-06-23 19:00:26,212 - AriaIntegrada - INFO - Conexi贸n sd cerrada
+2025-06-23 19:00:26,220 - ConexionServidor - INFO - Conexi贸n servidor cerrada
+2025-06-23 19:00:26,222 - AriaIntegrada - INFO - Conexi贸n servidor cerrada
+2025-06-23 19:00:26,223 - Contenedor - INFO - Conexi贸n contenedor cerrada
+2025-06-23 19:00:26,224 - AriaIntegrada - INFO - Conexi贸n contenedor cerrada
+2025-06-23 19:00:26,225 - AriaIntegrada - INFO - Sistema detenido correctamente
+2025-06-23 19:26:55,898 - GestorTareas - INFO - Worker 0 iniciado
+2025-06-23 19:26:55,899 - GestorTareas - INFO - Worker 1 iniciado
+2025-06-23 19:26:55,943 - GestorTareas - INFO - Worker 2 iniciado
+2025-06-23 19:26:55,944 - GestorTareas - INFO - Worker 3 iniciado
+2025-06-23 19:26:55,959 - PersonalidadCentral - INFO - Sistema de personalidad configurado
+2025-06-23 19:26:55,974 - GestorAdministrativo - INFO - Sistema administrativo configurado
+2025-06-23 19:26:55,989 - InteligenciaMilitar - INFO - Sistema de inteligencia configurado con nivel confidencial
+2025-06-23 19:26:55,989 - AriaUniversal - INFO - Iniciando Sistema IA Aria Universal...
+2025-06-23 19:26:55,991 - ConexionLocal - INFO - Conexi髇 local inicializada
+2025-06-23 19:26:55,991 - AriaUniversal - INFO - Conexi髇 local inicializada
+2025-06-23 19:26:55,991 - ConexionNube - INFO - Conexi髇 nube inicializada
+2025-06-23 19:26:55,991 - AriaUniversal - INFO - Conexi髇 nube inicializada
+2025-06-23 19:26:55,991 - ConexionOneDrive - INFO - Conexi髇 OneDrive inicializada
+2025-06-23 19:26:55,991 - AriaUniversal - INFO - Conexi髇 onedrive inicializada
+2025-06-23 19:26:56,048 - ConexionSD - INFO - Conexi髇 SD inicializada
+2025-06-23 19:26:56,048 - AriaUniversal - INFO - Conexi髇 sd inicializada
+2025-06-23 19:26:56,049 - ConexionServidor - INFO - Conexi髇 servidor inicializada (localhost:8080)
+2025-06-23 19:26:56,049 - AriaUniversal - INFO - Conexi髇 servidor inicializada
+2025-06-23 19:26:56,052 - Contenedor - ERROR - Docker no disponible: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-06-23 19:26:56,052 - AriaUniversal - WARNING - No se pudo inicializar conexi髇 contenedor
+2025-06-23 19:26:56,052 - AriaUniversal - INFO - Sistema Aria Universal inicializado correctamente
+2025-06-23 19:26:56,052 - AriaUniversal - INFO - Iniciando demostracion de capacidades...
+2025-06-23 19:26:56,052 - AriaUniversal - INFO - Demostrando capacidades administrativas...
+2025-06-23 19:26:56,052 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: administrativo
+2025-06-23 19:26:56,052 - SistemaAdaptativo - INFO - Transici髇 completada: hibrido -> administrativo
+2025-06-23 19:26:56,052 - AriaUniversal - INFO - Modo cambiado a: administrativo
+2025-06-23 19:26:56,052 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-23 19:26:56,052 - GestorTareas - INFO - Tarea TAREA-1750699616 agregada con prioridad ALTA
+2025-06-23 19:26:56,052 - GestorAdministrativo - ERROR - Error generando documento: 'str' object has no attribute 'value'
+2025-06-23 19:26:56,153 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:26:56,154 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:26:56,154 - AriaUniversal - INFO - Resultado administrativo: True
+2025-06-23 19:26:56,154 - AriaUniversal - INFO - Demostrando capacidades militares...
+2025-06-23 19:26:56,154 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: militar
+2025-06-23 19:26:56,154 - SistemaAdaptativo - INFO - Transici髇 completada: administrativo -> militar
+2025-06-23 19:26:56,154 - AriaUniversal - INFO - Modo cambiado a: militar
+2025-06-23 19:26:56,154 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-23 19:26:56,154 - GestorTareas - INFO - Tarea TAREA-1750699616 agregada con prioridad ALTA
+2025-06-23 19:26:56,155 - InteligenciaMilitar - ERROR - Error analizando amenaza: 'str' object has no attribute 'value'
+2025-06-23 19:26:56,255 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:26:56,255 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:26:56,256 - AriaUniversal - INFO - Resultado militar: True
+2025-06-23 19:26:56,256 - AriaUniversal - INFO - Demostrando modo hibrido...
+2025-06-23 19:26:56,256 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: hibrido
+2025-06-23 19:26:56,256 - SistemaAdaptativo - INFO - Transici髇 completada: militar -> hibrido
+2025-06-23 19:26:56,256 - AriaUniversal - INFO - Modo cambiado a: hibrido
+2025-06-23 19:26:56,256 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-23 19:26:56,257 - GestorTareas - INFO - Tarea TAREA-1750699616 agregada con prioridad ALTA
+2025-06-23 19:26:56,257 - GestorAdministrativo - ERROR - Error generando documento: 'str' object has no attribute 'value'
+2025-06-23 19:26:56,357 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:26:56,358 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:26:56,358 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-23 19:26:56,358 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-23 19:26:56,358 - GestorTareas - INFO - Tarea TAREA-1750699616 agregada con prioridad ALTA
+2025-06-23 19:26:56,358 - InteligenciaMilitar - ERROR - Error analizando amenaza: 'str' object has no attribute 'value'
+2025-06-23 19:26:56,459 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:26:56,459 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:26:56,459 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-23 19:26:56,459 - AriaUniversal - INFO - Reporte final generado
+2025-06-23 19:26:56,459 - AriaUniversal - INFO - Deteniendo Sistema Aria Universal...
+2025-06-23 19:26:56,459 - SistemaAdaptativo - INFO - Iniciando detenci髇 del sistema...
+2025-06-23 19:27:06,460 - SistemaAdaptativo - INFO - Sistema detenido correctamente
+2025-06-23 19:27:06,461 - ConexionLocal - INFO - Conexi髇 local cerrada
+2025-06-23 19:27:06,461 - AriaUniversal - INFO - Conexi髇 local cerrada
+2025-06-23 19:27:06,461 - ConexionNube - INFO - Conexi髇 nube cerrada
+2025-06-23 19:27:06,461 - AriaUniversal - INFO - Conexi髇 nube cerrada
+2025-06-23 19:27:06,461 - ConexionOneDrive - INFO - Conexi髇 OneDrive cerrada
+2025-06-23 19:27:06,461 - AriaUniversal - INFO - Conexi髇 onedrive cerrada
+2025-06-23 19:27:06,461 - ConexionSD - INFO - Conexi髇 SD cerrada
+2025-06-23 19:27:06,461 - AriaUniversal - INFO - Conexi髇 sd cerrada
+2025-06-23 19:27:06,461 - ConexionServidor - INFO - Conexi髇 servidor cerrada
+2025-06-23 19:27:06,461 - AriaUniversal - INFO - Conexi髇 servidor cerrada
+2025-06-23 19:27:06,461 - Contenedor - INFO - Conexi髇 contenedor cerrada
+2025-06-23 19:27:06,461 - AriaUniversal - INFO - Conexi髇 contenedor cerrada
+2025-06-23 19:27:06,461 - AriaUniversal - INFO - Sistema detenido correctamente
+2025-06-23 19:29:50,070 - GestorTareas - INFO - Worker 0 iniciado
+2025-06-23 19:29:50,158 - GestorTareas - INFO - Worker 1 iniciado
+2025-06-23 19:29:50,167 - GestorTareas - INFO - Worker 2 iniciado
+2025-06-23 19:29:50,168 - GestorTareas - INFO - Worker 3 iniciado
+2025-06-23 19:29:50,168 - PersonalidadCentral - INFO - Sistema de personalidad configurado
+2025-06-23 19:29:50,169 - GestorAdministrativo - INFO - Sistema administrativo configurado
+2025-06-23 19:29:50,169 - InteligenciaMilitar - INFO - Sistema de inteligencia configurado con nivel confidencial
+2025-06-23 19:29:50,169 - AriaUniversal - INFO - Iniciando Sistema IA Aria Universal...
+2025-06-23 19:29:50,170 - ConexionLocal - INFO - Conexi髇 local inicializada
+2025-06-23 19:29:50,170 - AriaUniversal - INFO - Conexi髇 local inicializada
+2025-06-23 19:29:50,170 - ConexionNube - INFO - Conexi髇 nube inicializada
+2025-06-23 19:29:50,170 - AriaUniversal - INFO - Conexi髇 nube inicializada
+2025-06-23 19:29:50,170 - ConexionOneDrive - INFO - Conexi髇 OneDrive inicializada
+2025-06-23 19:29:50,170 - AriaUniversal - INFO - Conexi髇 onedrive inicializada
+2025-06-23 19:29:50,208 - ConexionSD - INFO - Conexi髇 SD inicializada
+2025-06-23 19:29:50,208 - AriaUniversal - INFO - Conexi髇 sd inicializada
+2025-06-23 19:29:50,209 - ConexionServidor - INFO - Conexi髇 servidor inicializada (localhost:8080)
+2025-06-23 19:29:50,209 - AriaUniversal - INFO - Conexi髇 servidor inicializada
+2025-06-23 19:29:50,213 - Contenedor - ERROR - Docker no disponible: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-06-23 19:29:50,213 - AriaUniversal - WARNING - No se pudo inicializar conexi髇 contenedor
+2025-06-23 19:29:50,213 - AriaUniversal - INFO - Sistema Aria Universal inicializado correctamente
+2025-06-23 19:29:50,213 - AriaUniversal - INFO - Iniciando demostracion de capacidades...
+2025-06-23 19:29:50,213 - AriaUniversal - INFO - Demostrando capacidades administrativas...
+2025-06-23 19:29:50,213 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: administrativo
+2025-06-23 19:29:50,213 - SistemaAdaptativo - INFO - Transici髇 completada: hibrido -> administrativo
+2025-06-23 19:29:50,214 - AriaUniversal - INFO - Modo cambiado a: administrativo
+2025-06-23 19:29:50,214 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-23 19:29:50,214 - GestorTareas - INFO - Tarea TAREA-1750699790 agregada con prioridad ALTA
+2025-06-23 19:29:50,214 - GestorAdministrativo - ERROR - Error generando documento: 'str' object has no attribute 'value'
+2025-06-23 19:29:50,315 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:29:50,315 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:29:50,315 - AriaUniversal - INFO - Resultado administrativo: True
+2025-06-23 19:29:50,316 - AriaUniversal - INFO - Demostrando capacidades militares...
+2025-06-23 19:29:50,316 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: militar
+2025-06-23 19:29:50,316 - SistemaAdaptativo - INFO - Transici髇 completada: administrativo -> militar
+2025-06-23 19:29:50,316 - AriaUniversal - INFO - Modo cambiado a: militar
+2025-06-23 19:29:50,316 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-23 19:29:50,316 - GestorTareas - INFO - Tarea TAREA-1750699790 agregada con prioridad ALTA
+2025-06-23 19:29:50,317 - InteligenciaMilitar - ERROR - Error analizando amenaza: 'str' object has no attribute 'value'
+2025-06-23 19:29:50,425 - AriaUniversal - INFO - Solicitud procesada en 0.11s
+2025-06-23 19:29:50,425 - AriaUniversal - INFO - Solicitud procesada en 0.11s
+2025-06-23 19:29:50,438 - AriaUniversal - INFO - Resultado militar: True
+2025-06-23 19:29:50,438 - AriaUniversal - INFO - Demostrando modo hibrido...
+2025-06-23 19:29:50,438 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: hibrido
+2025-06-23 19:29:50,438 - SistemaAdaptativo - INFO - Transici髇 completada: militar -> hibrido
+2025-06-23 19:29:50,438 - AriaUniversal - INFO - Modo cambiado a: hibrido
+2025-06-23 19:29:50,438 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-23 19:29:50,439 - GestorTareas - INFO - Tarea TAREA-1750699790 agregada con prioridad ALTA
+2025-06-23 19:29:50,439 - GestorAdministrativo - ERROR - Error generando documento: 'str' object has no attribute 'value'
+2025-06-23 19:29:50,542 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:29:50,542 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:29:50,542 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-23 19:29:50,542 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-23 19:29:50,543 - GestorTareas - INFO - Tarea TAREA-1750699790 agregada con prioridad ALTA
+2025-06-23 19:29:50,543 - InteligenciaMilitar - ERROR - Error analizando amenaza: 'str' object has no attribute 'value'
+2025-06-23 19:29:50,644 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:29:50,644 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:29:50,645 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-23 19:29:50,645 - AriaUniversal - INFO - Reporte final generado
+2025-06-23 19:29:50,647 - AriaUniversal - INFO - Deteniendo Sistema Aria Universal...
+2025-06-23 19:29:50,647 - SistemaAdaptativo - INFO - Iniciando detenci髇 del sistema...
+2025-06-23 19:30:00,648 - SistemaAdaptativo - INFO - Sistema detenido correctamente
+2025-06-23 19:30:00,648 - ConexionLocal - INFO - Conexi髇 local cerrada
+2025-06-23 19:30:00,648 - AriaUniversal - INFO - Conexi髇 local cerrada
+2025-06-23 19:30:00,648 - ConexionNube - INFO - Conexi髇 nube cerrada
+2025-06-23 19:30:00,648 - AriaUniversal - INFO - Conexi髇 nube cerrada
+2025-06-23 19:30:00,648 - ConexionOneDrive - INFO - Conexi髇 OneDrive cerrada
+2025-06-23 19:30:00,648 - AriaUniversal - INFO - Conexi髇 onedrive cerrada
+2025-06-23 19:30:00,648 - ConexionSD - INFO - Conexi髇 SD cerrada
+2025-06-23 19:30:00,648 - AriaUniversal - INFO - Conexi髇 sd cerrada
+2025-06-23 19:30:00,649 - ConexionServidor - INFO - Conexi髇 servidor cerrada
+2025-06-23 19:30:00,649 - AriaUniversal - INFO - Conexi髇 servidor cerrada
+2025-06-23 19:30:00,649 - Contenedor - INFO - Conexi髇 contenedor cerrada
+2025-06-23 19:30:00,649 - AriaUniversal - INFO - Conexi髇 contenedor cerrada
+2025-06-23 19:30:00,649 - AriaUniversal - INFO - Sistema detenido correctamente
+2025-06-23 19:30:43,805 - GestorTareas - INFO - Worker 0 iniciado
+2025-06-23 19:30:43,898 - GestorTareas - INFO - Worker 1 iniciado
+2025-06-23 19:30:43,904 - GestorTareas - INFO - Worker 2 iniciado
+2025-06-23 19:30:43,905 - GestorTareas - INFO - Worker 3 iniciado
+2025-06-23 19:30:43,905 - PersonalidadCentral - INFO - Sistema de personalidad configurado
+2025-06-23 19:30:43,906 - GestorAdministrativo - INFO - Sistema administrativo configurado
+2025-06-23 19:30:43,906 - InteligenciaMilitar - INFO - Sistema de inteligencia configurado con nivel confidencial
+2025-06-23 19:30:43,906 - AriaUniversal - INFO - Iniciando Sistema IA Aria Universal...
+2025-06-23 19:30:43,907 - ConexionLocal - INFO - Conexi髇 local inicializada
+2025-06-23 19:30:43,907 - AriaUniversal - INFO - Conexi髇 local inicializada
+2025-06-23 19:30:43,907 - ConexionNube - INFO - Conexi髇 nube inicializada
+2025-06-23 19:30:43,907 - AriaUniversal - INFO - Conexi髇 nube inicializada
+2025-06-23 19:30:43,907 - ConexionOneDrive - INFO - Conexi髇 OneDrive inicializada
+2025-06-23 19:30:43,907 - AriaUniversal - INFO - Conexi髇 onedrive inicializada
+2025-06-23 19:30:43,940 - ConexionSD - INFO - Conexi髇 SD inicializada
+2025-06-23 19:30:43,940 - AriaUniversal - INFO - Conexi髇 sd inicializada
+2025-06-23 19:30:43,941 - ConexionServidor - INFO - Conexi髇 servidor inicializada (localhost:8080)
+2025-06-23 19:30:43,941 - AriaUniversal - INFO - Conexi髇 servidor inicializada
+2025-06-23 19:30:43,944 - Contenedor - ERROR - Docker no disponible: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-06-23 19:30:43,944 - AriaUniversal - WARNING - No se pudo inicializar conexi髇 contenedor
+2025-06-23 19:30:43,944 - AriaUniversal - INFO - Sistema Aria Universal inicializado correctamente
+2025-06-23 19:30:43,944 - AriaUniversal - INFO - Iniciando demostracion de capacidades...
+2025-06-23 19:30:43,944 - AriaUniversal - INFO - Demostrando capacidades administrativas...
+2025-06-23 19:30:43,944 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: administrativo
+2025-06-23 19:30:43,944 - SistemaAdaptativo - INFO - Transici髇 completada: hibrido -> administrativo
+2025-06-23 19:30:43,944 - AriaUniversal - INFO - Modo cambiado a: administrativo
+2025-06-23 19:30:43,944 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-23 19:30:43,944 - GestorTareas - INFO - Tarea TAREA-1750699843 agregada con prioridad ALTA
+2025-06-23 19:30:43,944 - GestorAdministrativo - ERROR - Error generando documento: 'str' object has no attribute 'value'
+2025-06-23 19:30:44,045 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:30:44,045 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:30:44,045 - AriaUniversal - INFO - Resultado administrativo: True
+2025-06-23 19:30:44,045 - AriaUniversal - INFO - Demostrando capacidades militares...
+2025-06-23 19:30:44,046 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: militar
+2025-06-23 19:30:44,046 - SistemaAdaptativo - INFO - Transici髇 completada: administrativo -> militar
+2025-06-23 19:30:44,046 - AriaUniversal - INFO - Modo cambiado a: militar
+2025-06-23 19:30:44,046 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-23 19:30:44,047 - GestorTareas - INFO - Tarea TAREA-1750699844 agregada con prioridad ALTA
+2025-06-23 19:30:44,047 - InteligenciaMilitar - ERROR - Error analizando amenaza: 'str' object has no attribute 'value'
+2025-06-23 19:30:44,147 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:30:44,147 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:30:44,148 - AriaUniversal - INFO - Resultado militar: True
+2025-06-23 19:30:44,148 - AriaUniversal - INFO - Demostrando modo hibrido...
+2025-06-23 19:30:44,148 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: hibrido
+2025-06-23 19:30:44,148 - SistemaAdaptativo - INFO - Transici髇 completada: militar -> hibrido
+2025-06-23 19:30:44,148 - AriaUniversal - INFO - Modo cambiado a: hibrido
+2025-06-23 19:30:44,148 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-23 19:30:44,149 - GestorTareas - INFO - Tarea TAREA-1750699844 agregada con prioridad ALTA
+2025-06-23 19:30:44,149 - GestorAdministrativo - ERROR - Error generando documento: 'str' object has no attribute 'value'
+2025-06-23 19:30:44,250 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:30:44,250 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:30:44,250 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-23 19:30:44,251 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-23 19:30:44,251 - GestorTareas - INFO - Tarea TAREA-1750699844 agregada con prioridad ALTA
+2025-06-23 19:30:44,252 - InteligenciaMilitar - ERROR - Error analizando amenaza: 'str' object has no attribute 'value'
+2025-06-23 19:30:44,353 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:30:44,354 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:30:44,354 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-23 19:30:44,354 - AriaUniversal - INFO - Reporte final generado
+2025-06-23 19:30:44,354 - AriaUniversal - INFO - Deteniendo Sistema Aria Universal...
+2025-06-23 19:30:44,355 - SistemaAdaptativo - INFO - Iniciando detenci髇 del sistema...
+2025-06-23 19:30:54,356 - SistemaAdaptativo - INFO - Sistema detenido correctamente
+2025-06-23 19:30:54,356 - ConexionLocal - INFO - Conexi髇 local cerrada
+2025-06-23 19:30:54,356 - AriaUniversal - INFO - Conexi髇 local cerrada
+2025-06-23 19:30:54,356 - ConexionNube - INFO - Conexi髇 nube cerrada
+2025-06-23 19:30:54,356 - AriaUniversal - INFO - Conexi髇 nube cerrada
+2025-06-23 19:30:54,357 - ConexionOneDrive - INFO - Conexi髇 OneDrive cerrada
+2025-06-23 19:30:54,357 - AriaUniversal - INFO - Conexi髇 onedrive cerrada
+2025-06-23 19:30:54,357 - ConexionSD - INFO - Conexi髇 SD cerrada
+2025-06-23 19:30:54,357 - AriaUniversal - INFO - Conexi髇 sd cerrada
+2025-06-23 19:30:54,358 - ConexionServidor - INFO - Conexi髇 servidor cerrada
+2025-06-23 19:30:54,358 - AriaUniversal - INFO - Conexi髇 servidor cerrada
+2025-06-23 19:30:54,358 - Contenedor - INFO - Conexi髇 contenedor cerrada
+2025-06-23 19:30:54,358 - AriaUniversal - INFO - Conexi髇 contenedor cerrada
+2025-06-23 19:30:54,358 - AriaUniversal - INFO - Sistema detenido correctamente
+2025-06-23 19:32:31,405 - GestorTareas - INFO - Worker 0 iniciado
+2025-06-23 19:32:31,406 - GestorTareas - INFO - Worker 1 iniciado
+2025-06-23 19:32:31,409 - GestorTareas - INFO - Worker 2 iniciado
+2025-06-23 19:32:31,410 - GestorTareas - INFO - Worker 3 iniciado
+2025-06-23 19:32:31,410 - PersonalidadCentral - INFO - Sistema de personalidad configurado
+2025-06-23 19:32:31,411 - GestorAdministrativo - INFO - Sistema administrativo configurado
+2025-06-23 19:32:31,411 - InteligenciaMilitar - INFO - Sistema de inteligencia configurado con nivel confidencial
+2025-06-23 19:32:31,411 - AriaUniversal - INFO - Iniciando Sistema IA Aria Universal...
+2025-06-23 19:32:31,412 - ConexionLocal - INFO - Conexi髇 local inicializada
+2025-06-23 19:32:31,412 - AriaUniversal - INFO - Conexi髇 local inicializada
+2025-06-23 19:32:31,412 - ConexionNube - INFO - Conexi髇 nube inicializada
+2025-06-23 19:32:31,412 - AriaUniversal - INFO - Conexi髇 nube inicializada
+2025-06-23 19:32:31,412 - ConexionOneDrive - INFO - Conexi髇 OneDrive inicializada
+2025-06-23 19:32:31,412 - AriaUniversal - INFO - Conexi髇 onedrive inicializada
+2025-06-23 19:32:31,450 - ConexionSD - INFO - Conexi髇 SD inicializada
+2025-06-23 19:32:31,450 - AriaUniversal - INFO - Conexi髇 sd inicializada
+2025-06-23 19:32:31,451 - ConexionServidor - INFO - Conexi髇 servidor inicializada (localhost:8080)
+2025-06-23 19:32:31,451 - AriaUniversal - INFO - Conexi髇 servidor inicializada
+2025-06-23 19:32:31,456 - Contenedor - ERROR - Docker no disponible: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-06-23 19:32:31,456 - AriaUniversal - WARNING - No se pudo inicializar conexi髇 contenedor
+2025-06-23 19:32:31,456 - AriaUniversal - INFO - Sistema Aria Universal inicializado correctamente
+2025-06-23 19:32:31,456 - AriaUniversal - INFO - Iniciando demostracion de capacidades...
+2025-06-23 19:32:31,456 - AriaUniversal - INFO - Demostrando capacidades administrativas...
+2025-06-23 19:32:31,456 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: administrativo
+2025-06-23 19:32:31,456 - SistemaAdaptativo - INFO - Transici髇 completada: hibrido -> administrativo
+2025-06-23 19:32:31,456 - AriaUniversal - INFO - Modo cambiado a: administrativo
+2025-06-23 19:32:31,456 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-23 19:32:31,456 - GestorTareas - INFO - Tarea TAREA-1750699951 agregada con prioridad ALTA
+2025-06-23 19:32:31,456 - GestorAdministrativo - ERROR - Error generando documento: 'str' object has no attribute 'value'
+2025-06-23 19:32:31,557 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:32:31,557 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:32:31,557 - AriaUniversal - INFO - Resultado administrativo: True
+2025-06-23 19:32:31,557 - AriaUniversal - INFO - Demostrando capacidades militares...
+2025-06-23 19:32:31,557 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: militar
+2025-06-23 19:32:31,557 - SistemaAdaptativo - INFO - Transici髇 completada: administrativo -> militar
+2025-06-23 19:32:31,557 - AriaUniversal - INFO - Modo cambiado a: militar
+2025-06-23 19:32:31,557 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-23 19:32:31,558 - GestorTareas - INFO - Tarea TAREA-1750699951 agregada con prioridad ALTA
+2025-06-23 19:32:31,558 - InteligenciaMilitar - ERROR - Error analizando amenaza: 'str' object has no attribute 'value'
+2025-06-23 19:32:31,658 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:32:31,659 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:32:31,659 - AriaUniversal - INFO - Resultado militar: True
+2025-06-23 19:32:31,659 - AriaUniversal - INFO - Demostrando modo hibrido...
+2025-06-23 19:32:31,659 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: hibrido
+2025-06-23 19:32:31,659 - SistemaAdaptativo - INFO - Transici髇 completada: militar -> hibrido
+2025-06-23 19:32:31,659 - AriaUniversal - INFO - Modo cambiado a: hibrido
+2025-06-23 19:32:31,659 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-23 19:32:31,659 - GestorTareas - INFO - Tarea TAREA-1750699951 agregada con prioridad ALTA
+2025-06-23 19:32:31,660 - GestorAdministrativo - ERROR - Error generando documento: 'str' object has no attribute 'value'
+2025-06-23 19:32:31,760 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:32:31,760 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:32:31,761 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-23 19:32:31,761 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-23 19:32:31,761 - GestorTareas - INFO - Tarea TAREA-1750699951 agregada con prioridad ALTA
+2025-06-23 19:32:31,761 - InteligenciaMilitar - ERROR - Error analizando amenaza: 'str' object has no attribute 'value'
+2025-06-23 19:32:31,861 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:32:31,861 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 19:32:31,861 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-23 19:32:31,861 - AriaUniversal - INFO - Reporte final generado
+2025-06-23 19:32:31,862 - AriaUniversal - INFO - Deteniendo Sistema Aria Universal...
+2025-06-23 19:32:31,862 - SistemaAdaptativo - INFO - Iniciando detenci髇 del sistema...
+2025-06-23 19:32:41,864 - SistemaAdaptativo - INFO - Sistema detenido correctamente
+2025-06-23 19:32:41,864 - ConexionLocal - INFO - Conexi髇 local cerrada
+2025-06-23 19:32:41,864 - AriaUniversal - INFO - Conexi髇 local cerrada
+2025-06-23 19:32:41,864 - ConexionNube - INFO - Conexi髇 nube cerrada
+2025-06-23 19:32:41,865 - AriaUniversal - INFO - Conexi髇 nube cerrada
+2025-06-23 19:32:41,865 - ConexionOneDrive - INFO - Conexi髇 OneDrive cerrada
+2025-06-23 19:32:41,865 - AriaUniversal - INFO - Conexi髇 onedrive cerrada
+2025-06-23 19:32:41,865 - ConexionSD - INFO - Conexi髇 SD cerrada
+2025-06-23 19:32:41,865 - AriaUniversal - INFO - Conexi髇 sd cerrada
+2025-06-23 19:32:41,866 - ConexionServidor - INFO - Conexi髇 servidor cerrada
+2025-06-23 19:32:41,866 - AriaUniversal - INFO - Conexi髇 servidor cerrada
+2025-06-23 19:32:41,866 - Contenedor - INFO - Conexi髇 contenedor cerrada
+2025-06-23 19:32:41,866 - AriaUniversal - INFO - Conexi髇 contenedor cerrada
+2025-06-23 19:32:41,866 - AriaUniversal - INFO - Sistema detenido correctamente
+2025-06-23 20:29:03,662 - GestorTareas - INFO - Worker 0 iniciado
+2025-06-23 20:29:03,752 - GestorTareas - INFO - Worker 1 iniciado
+2025-06-23 20:29:03,758 - GestorTareas - INFO - Worker 2 iniciado
+2025-06-23 20:29:03,759 - GestorTareas - INFO - Worker 3 iniciado
+2025-06-23 20:29:03,759 - PersonalidadCentral - INFO - Sistema de personalidad configurado
+2025-06-23 20:29:03,760 - GestorAdministrativo - INFO - Sistema administrativo configurado
+2025-06-23 20:29:03,760 - InteligenciaMilitar - INFO - Sistema de inteligencia configurado con nivel confidencial
+2025-06-23 20:29:03,760 - AriaUniversal - INFO - Iniciando Sistema IA Aria Universal...
+2025-06-23 20:29:03,760 - ConexionLocal - INFO - Conexi髇 local inicializada
+2025-06-23 20:29:03,761 - AriaUniversal - INFO - Conexi髇 local inicializada
+2025-06-23 20:29:03,761 - ConexionNube - INFO - Conexi髇 nube inicializada
+2025-06-23 20:29:03,761 - AriaUniversal - INFO - Conexi髇 nube inicializada
+2025-06-23 20:29:03,761 - ConexionOneDrive - INFO - Conexi髇 OneDrive inicializada
+2025-06-23 20:29:03,761 - AriaUniversal - INFO - Conexi髇 onedrive inicializada
+2025-06-23 20:29:03,798 - ConexionSD - INFO - Conexi髇 SD inicializada
+2025-06-23 20:29:03,798 - AriaUniversal - INFO - Conexi髇 sd inicializada
+2025-06-23 20:29:03,799 - ConexionServidor - INFO - Conexi髇 servidor inicializada (localhost:8080)
+2025-06-23 20:29:03,799 - AriaUniversal - INFO - Conexi髇 servidor inicializada
+2025-06-23 20:29:03,802 - Contenedor - ERROR - Docker no disponible: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-06-23 20:29:03,802 - AriaUniversal - WARNING - No se pudo inicializar conexi髇 contenedor
+2025-06-23 20:29:03,802 - AriaUniversal - INFO - Sistema Aria Universal inicializado correctamente
+2025-06-23 20:29:03,803 - AriaUniversal - INFO - Iniciando demostracion de capacidades...
+2025-06-23 20:29:03,803 - AriaUniversal - INFO - Demostrando capacidades administrativas...
+2025-06-23 20:29:03,803 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: administrativo
+2025-06-23 20:29:03,803 - SistemaAdaptativo - INFO - Transici髇 completada: hibrido -> administrativo
+2025-06-23 20:29:03,803 - AriaUniversal - INFO - Modo cambiado a: administrativo
+2025-06-23 20:29:03,803 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-23 20:29:03,803 - GestorTareas - INFO - Tarea TAREA-1750703343 agregada con prioridad ALTA
+2025-06-23 20:29:03,803 - GestorAdministrativo - ERROR - Error generando documento: 'str' object has no attribute 'value'
+2025-06-23 20:29:03,903 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 20:29:03,904 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 20:29:03,904 - AriaUniversal - INFO - Resultado administrativo: True
+2025-06-23 20:29:03,904 - AriaUniversal - INFO - Demostrando capacidades militares...
+2025-06-23 20:29:03,905 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: militar
+2025-06-23 20:29:03,905 - SistemaAdaptativo - INFO - Transici髇 completada: administrativo -> militar
+2025-06-23 20:29:03,906 - AriaUniversal - INFO - Modo cambiado a: militar
+2025-06-23 20:29:03,906 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-23 20:29:03,906 - GestorTareas - INFO - Tarea TAREA-1750703343 agregada con prioridad ALTA
+2025-06-23 20:29:03,907 - InteligenciaMilitar - ERROR - Error analizando amenaza: 'str' object has no attribute 'value'
+2025-06-23 20:29:04,007 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 20:29:04,007 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 20:29:04,007 - AriaUniversal - INFO - Resultado militar: True
+2025-06-23 20:29:04,008 - AriaUniversal - INFO - Demostrando modo hibrido...
+2025-06-23 20:29:04,008 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: hibrido
+2025-06-23 20:29:04,008 - SistemaAdaptativo - INFO - Transici髇 completada: militar -> hibrido
+2025-06-23 20:29:04,008 - AriaUniversal - INFO - Modo cambiado a: hibrido
+2025-06-23 20:29:04,008 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-23 20:29:04,009 - GestorTareas - INFO - Tarea TAREA-1750703344 agregada con prioridad ALTA
+2025-06-23 20:29:04,009 - GestorAdministrativo - ERROR - Error generando documento: 'str' object has no attribute 'value'
+2025-06-23 20:29:04,109 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 20:29:04,110 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 20:29:04,110 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-23 20:29:04,110 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-23 20:29:04,110 - GestorTareas - INFO - Tarea TAREA-1750703344 agregada con prioridad ALTA
+2025-06-23 20:29:04,111 - InteligenciaMilitar - ERROR - Error analizando amenaza: 'str' object has no attribute 'value'
+2025-06-23 20:29:04,211 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 20:29:04,211 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-23 20:29:04,211 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-23 20:29:04,211 - AriaUniversal - INFO - Reporte final generado
+2025-06-23 20:29:04,212 - AriaUniversal - INFO - Deteniendo Sistema Aria Universal...
+2025-06-23 20:29:04,212 - SistemaAdaptativo - INFO - Iniciando detenci髇 del sistema...
+2025-06-23 20:29:14,212 - SistemaAdaptativo - INFO - Sistema detenido correctamente
+2025-06-23 20:29:14,213 - ConexionLocal - INFO - Conexi髇 local cerrada
+2025-06-23 20:29:14,213 - AriaUniversal - INFO - Conexi髇 local cerrada
+2025-06-23 20:29:14,213 - ConexionNube - INFO - Conexi髇 nube cerrada
+2025-06-23 20:29:14,213 - AriaUniversal - INFO - Conexi髇 nube cerrada
+2025-06-23 20:29:14,213 - ConexionOneDrive - INFO - Conexi髇 OneDrive cerrada
+2025-06-23 20:29:14,213 - AriaUniversal - INFO - Conexi髇 onedrive cerrada
+2025-06-23 20:29:14,213 - ConexionSD - INFO - Conexi髇 SD cerrada
+2025-06-23 20:29:14,214 - AriaUniversal - INFO - Conexi髇 sd cerrada
+2025-06-23 20:29:14,214 - ConexionServidor - INFO - Conexi髇 servidor cerrada
+2025-06-23 20:29:14,214 - AriaUniversal - INFO - Conexi髇 servidor cerrada
+2025-06-23 20:29:14,214 - Contenedor - INFO - Conexi髇 contenedor cerrada
+2025-06-23 20:29:14,214 - AriaUniversal - INFO - Conexi髇 contenedor cerrada
+2025-06-23 20:29:14,214 - AriaUniversal - INFO - Sistema detenido correctamente
+2025-06-24 21:53:32,603 - GestorTareas - INFO - Worker 0 iniciado
+2025-06-24 21:53:32,609 - GestorTareas - INFO - Worker 1 iniciado
+2025-06-24 21:53:32,609 - GestorTareas - INFO - Worker 2 iniciado
+2025-06-24 21:53:32,610 - GestorTareas - INFO - Worker 3 iniciado
+2025-06-24 21:53:32,610 - PersonalidadCentral - INFO - Sistema de personalidad configurado
+2025-06-24 21:53:32,611 - GestorAdministrativo - INFO - Sistema administrativo configurado
+2025-06-24 21:53:32,611 - InteligenciaMilitar - INFO - Sistema de inteligencia configurado con nivel confidencial
+2025-06-24 21:53:32,611 - AriaUniversal - INFO - Iniciando Sistema IA Aria Universal...
+2025-06-24 21:53:32,611 - ConexionLocal - INFO - Conexi髇 local inicializada
+2025-06-24 21:53:32,611 - AriaUniversal - INFO - Conexi髇 local inicializada
+2025-06-24 21:53:32,611 - ConexionNube - INFO - Conexi髇 nube inicializada
+2025-06-24 21:53:32,612 - AriaUniversal - INFO - Conexi髇 nube inicializada
+2025-06-24 21:53:32,612 - ConexionOneDrive - INFO - Conexi髇 OneDrive inicializada
+2025-06-24 21:53:32,612 - AriaUniversal - INFO - Conexi髇 onedrive inicializada
+2025-06-24 21:53:32,663 - ConexionSD - INFO - Conexi髇 SD inicializada
+2025-06-24 21:53:32,663 - AriaUniversal - INFO - Conexi髇 sd inicializada
+2025-06-24 21:53:32,664 - ConexionServidor - INFO - Conexi髇 servidor inicializada (localhost:8080)
+2025-06-24 21:53:32,665 - AriaUniversal - INFO - Conexi髇 servidor inicializada
+2025-06-24 21:53:32,668 - Contenedor - ERROR - Docker no disponible: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-06-24 21:53:32,668 - AriaUniversal - WARNING - No se pudo inicializar conexi髇 contenedor
+2025-06-24 21:53:32,668 - AriaUniversal - INFO - Sistema Aria Universal inicializado correctamente
+2025-06-24 21:53:32,668 - AriaUniversal - INFO - Iniciando demostracion de capacidades...
+2025-06-24 21:53:32,668 - AriaUniversal - INFO - Demostrando capacidades administrativas...
+2025-06-24 21:53:32,668 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: administrativo
+2025-06-24 21:53:32,668 - SistemaAdaptativo - INFO - Transici髇 completada: hibrido -> administrativo
+2025-06-24 21:53:32,669 - AriaUniversal - INFO - Modo cambiado a: administrativo
+2025-06-24 21:53:32,669 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-24 21:53:32,669 - GestorTareas - INFO - Tarea TAREA-1750794812 agregada con prioridad ALTA
+2025-06-24 21:53:32,671 - GestorAdministrativo - ERROR - Error generando documento: 'str' object has no attribute 'value'
+2025-06-24 21:53:32,771 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 21:53:32,772 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 21:53:32,772 - AriaUniversal - INFO - Resultado administrativo: True
+2025-06-24 21:53:32,773 - AriaUniversal - INFO - Demostrando capacidades militares...
+2025-06-24 21:53:32,773 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: militar
+2025-06-24 21:53:32,773 - SistemaAdaptativo - INFO - Transici髇 completada: administrativo -> militar
+2025-06-24 21:53:32,774 - AriaUniversal - INFO - Modo cambiado a: militar
+2025-06-24 21:53:32,774 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-24 21:53:32,774 - GestorTareas - INFO - Tarea TAREA-1750794812 agregada con prioridad ALTA
+2025-06-24 21:53:32,774 - InteligenciaMilitar - ERROR - Error analizando amenaza: 'str' object has no attribute 'value'
+2025-06-24 21:53:32,875 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 21:53:32,875 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 21:53:32,876 - AriaUniversal - INFO - Resultado militar: True
+2025-06-24 21:53:32,876 - AriaUniversal - INFO - Demostrando modo hibrido...
+2025-06-24 21:53:32,876 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: hibrido
+2025-06-24 21:53:32,876 - SistemaAdaptativo - INFO - Transici髇 completada: militar -> hibrido
+2025-06-24 21:53:32,876 - AriaUniversal - INFO - Modo cambiado a: hibrido
+2025-06-24 21:53:32,876 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-24 21:53:32,876 - GestorTareas - INFO - Tarea TAREA-1750794812 agregada con prioridad ALTA
+2025-06-24 21:53:32,876 - GestorAdministrativo - ERROR - Error generando documento: 'str' object has no attribute 'value'
+2025-06-24 21:53:32,977 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 21:53:32,977 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 21:53:32,977 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-24 21:53:32,977 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-24 21:53:32,978 - GestorTareas - INFO - Tarea TAREA-1750794812 agregada con prioridad ALTA
+2025-06-24 21:53:32,978 - InteligenciaMilitar - ERROR - Error analizando amenaza: 'str' object has no attribute 'value'
+2025-06-24 21:53:33,079 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 21:53:33,079 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 21:53:33,079 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-24 21:53:33,080 - AriaUniversal - INFO - Reporte final generado
+2025-06-24 21:53:33,080 - AriaUniversal - INFO - Deteniendo Sistema Aria Universal...
+2025-06-24 21:53:33,080 - SistemaAdaptativo - INFO - Iniciando detenci髇 del sistema...
+2025-06-24 21:53:43,081 - SistemaAdaptativo - INFO - Sistema detenido correctamente
+2025-06-24 21:53:43,081 - ConexionLocal - INFO - Conexi髇 local cerrada
+2025-06-24 21:53:43,081 - AriaUniversal - INFO - Conexi髇 local cerrada
+2025-06-24 21:53:43,081 - ConexionNube - INFO - Conexi髇 nube cerrada
+2025-06-24 21:53:43,082 - AriaUniversal - INFO - Conexi髇 nube cerrada
+2025-06-24 21:53:43,082 - ConexionOneDrive - INFO - Conexi髇 OneDrive cerrada
+2025-06-24 21:53:43,082 - AriaUniversal - INFO - Conexi髇 onedrive cerrada
+2025-06-24 21:53:43,082 - ConexionSD - INFO - Conexi髇 SD cerrada
+2025-06-24 21:53:43,082 - AriaUniversal - INFO - Conexi髇 sd cerrada
+2025-06-24 21:53:43,083 - ConexionServidor - INFO - Conexi髇 servidor cerrada
+2025-06-24 21:53:43,083 - AriaUniversal - INFO - Conexi髇 servidor cerrada
+2025-06-24 21:53:43,083 - Contenedor - INFO - Conexi髇 contenedor cerrada
+2025-06-24 21:53:43,083 - AriaUniversal - INFO - Conexi髇 contenedor cerrada
+2025-06-24 21:53:43,083 - AriaUniversal - INFO - Sistema detenido correctamente
+2025-06-24 21:53:53,530 - GestorTareas - INFO - Worker 0 iniciado
+2025-06-24 21:53:53,534 - GestorTareas - INFO - Worker 1 iniciado
+2025-06-24 21:53:53,535 - GestorTareas - INFO - Worker 2 iniciado
+2025-06-24 21:53:53,535 - GestorTareas - INFO - Worker 3 iniciado
+2025-06-24 21:53:53,535 - PersonalidadCentral - INFO - Sistema de personalidad configurado
+2025-06-24 21:53:53,536 - GestorAdministrativo - INFO - Sistema administrativo configurado
+2025-06-24 21:53:53,536 - InteligenciaMilitar - INFO - Sistema de inteligencia configurado con nivel confidencial
+2025-06-24 21:53:53,536 - AriaUniversal - INFO - Iniciando Sistema IA Aria Universal...
+2025-06-24 21:53:53,536 - ConexionLocal - INFO - Conexi髇 local inicializada
+2025-06-24 21:53:53,536 - AriaUniversal - INFO - Conexi髇 local inicializada
+2025-06-24 21:53:53,536 - ConexionNube - INFO - Conexi髇 nube inicializada
+2025-06-24 21:53:53,536 - AriaUniversal - INFO - Conexi髇 nube inicializada
+2025-06-24 21:53:53,536 - ConexionOneDrive - INFO - Conexi髇 OneDrive inicializada
+2025-06-24 21:53:53,536 - AriaUniversal - INFO - Conexi髇 onedrive inicializada
+2025-06-24 21:53:53,584 - ConexionSD - INFO - Conexi髇 SD inicializada
+2025-06-24 21:53:53,584 - AriaUniversal - INFO - Conexi髇 sd inicializada
+2025-06-24 21:53:53,585 - ConexionServidor - INFO - Conexi髇 servidor inicializada (localhost:8080)
+2025-06-24 21:53:53,585 - AriaUniversal - INFO - Conexi髇 servidor inicializada
+2025-06-24 21:53:53,588 - Contenedor - ERROR - Docker no disponible: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-06-24 21:53:53,588 - AriaUniversal - WARNING - No se pudo inicializar conexi髇 contenedor
+2025-06-24 21:53:53,589 - AriaUniversal - INFO - Sistema Aria Universal inicializado correctamente
+2025-06-24 21:53:53,589 - AriaUniversal - INFO - Iniciando demostracion de capacidades...
+2025-06-24 21:53:53,589 - AriaUniversal - INFO - Demostrando capacidades administrativas...
+2025-06-24 21:53:53,589 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: administrativo
+2025-06-24 21:53:53,589 - SistemaAdaptativo - INFO - Transici髇 completada: hibrido -> administrativo
+2025-06-24 21:53:53,589 - AriaUniversal - INFO - Modo cambiado a: administrativo
+2025-06-24 21:53:53,589 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-24 21:53:53,589 - GestorTareas - INFO - Tarea TAREA-1750794833 agregada con prioridad ALTA
+2025-06-24 21:53:53,589 - GestorAdministrativo - ERROR - Error generando documento: 'str' object has no attribute 'value'
+2025-06-24 21:53:53,690 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 21:53:53,690 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 21:53:53,690 - AriaUniversal - INFO - Resultado administrativo: True
+2025-06-24 21:53:53,690 - AriaUniversal - INFO - Demostrando capacidades militares...
+2025-06-24 21:53:53,690 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: militar
+2025-06-24 21:53:53,690 - SistemaAdaptativo - INFO - Transici髇 completada: administrativo -> militar
+2025-06-24 21:53:53,690 - AriaUniversal - INFO - Modo cambiado a: militar
+2025-06-24 21:53:53,690 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-24 21:53:53,690 - GestorTareas - INFO - Tarea TAREA-1750794833 agregada con prioridad ALTA
+2025-06-24 21:53:53,690 - InteligenciaMilitar - ERROR - Error analizando amenaza: 'str' object has no attribute 'value'
+2025-06-24 21:53:53,798 - AriaUniversal - INFO - Solicitud procesada en 0.11s
+2025-06-24 21:53:53,798 - AriaUniversal - INFO - Solicitud procesada en 0.11s
+2025-06-24 21:53:53,798 - AriaUniversal - INFO - Resultado militar: True
+2025-06-24 21:53:53,798 - AriaUniversal - INFO - Demostrando modo hibrido...
+2025-06-24 21:53:53,798 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: hibrido
+2025-06-24 21:53:53,799 - SistemaAdaptativo - INFO - Transici髇 completada: militar -> hibrido
+2025-06-24 21:53:53,799 - AriaUniversal - INFO - Modo cambiado a: hibrido
+2025-06-24 21:53:53,799 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-24 21:53:53,799 - GestorTareas - INFO - Tarea TAREA-1750794833 agregada con prioridad ALTA
+2025-06-24 21:53:53,799 - GestorAdministrativo - ERROR - Error generando documento: 'str' object has no attribute 'value'
+2025-06-24 21:53:53,899 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 21:53:53,899 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 21:53:53,900 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-24 21:53:53,900 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-24 21:53:53,900 - GestorTareas - INFO - Tarea TAREA-1750794833 agregada con prioridad ALTA
+2025-06-24 21:53:53,900 - InteligenciaMilitar - ERROR - Error analizando amenaza: 'str' object has no attribute 'value'
+2025-06-24 21:53:54,001 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 21:53:54,001 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 21:53:54,001 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-24 21:53:54,001 - AriaUniversal - INFO - Reporte final generado
+2025-06-24 21:53:54,001 - AriaUniversal - INFO - Deteniendo Sistema Aria Universal...
+2025-06-24 21:53:54,001 - SistemaAdaptativo - INFO - Iniciando detenci髇 del sistema...
+2025-06-24 21:54:04,002 - SistemaAdaptativo - INFO - Sistema detenido correctamente
+2025-06-24 21:54:04,002 - ConexionLocal - INFO - Conexi髇 local cerrada
+2025-06-24 21:54:04,002 - AriaUniversal - INFO - Conexi髇 local cerrada
+2025-06-24 21:54:04,002 - ConexionNube - INFO - Conexi髇 nube cerrada
+2025-06-24 21:54:04,002 - AriaUniversal - INFO - Conexi髇 nube cerrada
+2025-06-24 21:54:04,002 - ConexionOneDrive - INFO - Conexi髇 OneDrive cerrada
+2025-06-24 21:54:04,002 - AriaUniversal - INFO - Conexi髇 onedrive cerrada
+2025-06-24 21:54:04,002 - ConexionSD - INFO - Conexi髇 SD cerrada
+2025-06-24 21:54:04,002 - AriaUniversal - INFO - Conexi髇 sd cerrada
+2025-06-24 21:54:04,003 - ConexionServidor - INFO - Conexi髇 servidor cerrada
+2025-06-24 21:54:04,003 - AriaUniversal - INFO - Conexi髇 servidor cerrada
+2025-06-24 21:54:04,003 - Contenedor - INFO - Conexi髇 contenedor cerrada
+2025-06-24 21:54:04,003 - AriaUniversal - INFO - Conexi髇 contenedor cerrada
+2025-06-24 21:54:04,003 - AriaUniversal - INFO - Sistema detenido correctamente
+2025-06-24 22:09:53,595 - GestorTareas - INFO - Worker 0 iniciado
+2025-06-24 22:09:53,692 - GestorTareas - INFO - Worker 1 iniciado
+2025-06-24 22:09:53,693 - GestorTareas - INFO - Worker 2 iniciado
+2025-06-24 22:09:53,693 - GestorTareas - INFO - Worker 3 iniciado
+2025-06-24 22:09:53,694 - PersonalidadCentral - INFO - Sistema de personalidad configurado
+2025-06-24 22:09:53,694 - GestorAdministrativo - INFO - Sistema administrativo configurado
+2025-06-24 22:09:53,694 - InteligenciaMilitar - INFO - Sistema de inteligencia configurado con nivel confidencial
+2025-06-24 22:09:53,695 - AriaUniversal - INFO - Iniciando Sistema IA Aria Universal...
+2025-06-24 22:09:53,695 - ConexionLocal - INFO - Conexi髇 local inicializada
+2025-06-24 22:09:53,695 - AriaUniversal - INFO - Conexi髇 local inicializada
+2025-06-24 22:09:53,695 - ConexionNube - INFO - Conexi髇 nube inicializada
+2025-06-24 22:09:53,695 - AriaUniversal - INFO - Conexi髇 nube inicializada
+2025-06-24 22:09:53,695 - ConexionOneDrive - INFO - Conexi髇 OneDrive inicializada
+2025-06-24 22:09:53,695 - AriaUniversal - INFO - Conexi髇 onedrive inicializada
+2025-06-24 22:09:53,737 - ConexionSD - INFO - Conexi髇 SD inicializada
+2025-06-24 22:09:53,737 - AriaUniversal - INFO - Conexi髇 sd inicializada
+2025-06-24 22:09:53,738 - ConexionServidor - INFO - Conexi髇 servidor inicializada (localhost:8080)
+2025-06-24 22:09:53,739 - AriaUniversal - INFO - Conexi髇 servidor inicializada
+2025-06-24 22:09:53,742 - Contenedor - ERROR - Docker no disponible: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-06-24 22:09:53,742 - AriaUniversal - WARNING - No se pudo inicializar conexi髇 contenedor
+2025-06-24 22:09:53,742 - AriaUniversal - INFO - Sistema Aria Universal inicializado correctamente
+2025-06-24 22:09:53,742 - AriaUniversal - INFO - Iniciando demostracion de capacidades...
+2025-06-24 22:09:53,742 - AriaUniversal - INFO - Demostrando capacidades administrativas...
+2025-06-24 22:09:53,742 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: administrativo
+2025-06-24 22:09:53,742 - SistemaAdaptativo - INFO - Transici髇 completada: hibrido -> administrativo
+2025-06-24 22:09:53,742 - AriaUniversal - INFO - Modo cambiado a: administrativo
+2025-06-24 22:09:53,742 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-24 22:09:53,742 - GestorTareas - INFO - Tarea TAREA-1750795793 agregada con prioridad ALTA
+2025-06-24 22:09:53,742 - GestorAdministrativo - ERROR - Error generando documento: 'str' object has no attribute 'value'
+2025-06-24 22:09:53,843 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 22:09:53,843 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 22:09:53,843 - AriaUniversal - INFO - Resultado administrativo: True
+2025-06-24 22:09:53,844 - AriaUniversal - INFO - Demostrando capacidades militares...
+2025-06-24 22:09:53,844 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: militar
+2025-06-24 22:09:53,844 - SistemaAdaptativo - INFO - Transici髇 completada: administrativo -> militar
+2025-06-24 22:09:53,844 - AriaUniversal - INFO - Modo cambiado a: militar
+2025-06-24 22:09:53,844 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-24 22:09:53,845 - GestorTareas - INFO - Tarea TAREA-1750795793 agregada con prioridad ALTA
+2025-06-24 22:09:53,845 - InteligenciaMilitar - ERROR - Error analizando amenaza: 'str' object has no attribute 'value'
+2025-06-24 22:09:53,946 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 22:09:53,946 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 22:09:53,946 - AriaUniversal - INFO - Resultado militar: True
+2025-06-24 22:09:53,946 - AriaUniversal - INFO - Demostrando modo hibrido...
+2025-06-24 22:09:53,946 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: hibrido
+2025-06-24 22:09:53,947 - SistemaAdaptativo - INFO - Transici髇 completada: militar -> hibrido
+2025-06-24 22:09:53,947 - AriaUniversal - INFO - Modo cambiado a: hibrido
+2025-06-24 22:09:53,947 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-24 22:09:53,947 - GestorTareas - INFO - Tarea TAREA-1750795793 agregada con prioridad ALTA
+2025-06-24 22:09:53,948 - GestorAdministrativo - ERROR - Error generando documento: 'str' object has no attribute 'value'
+2025-06-24 22:09:54,048 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 22:09:54,048 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 22:09:54,048 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-24 22:09:54,049 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-24 22:09:54,049 - GestorTareas - INFO - Tarea TAREA-1750795794 agregada con prioridad ALTA
+2025-06-24 22:09:54,049 - InteligenciaMilitar - ERROR - Error analizando amenaza: 'str' object has no attribute 'value'
+2025-06-24 22:09:54,150 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 22:09:54,150 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 22:09:54,150 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-24 22:09:54,150 - AriaUniversal - INFO - Reporte final generado
+2025-06-24 22:09:54,151 - AriaUniversal - INFO - Deteniendo Sistema Aria Universal...
+2025-06-24 22:09:54,151 - SistemaAdaptativo - INFO - Iniciando detenci髇 del sistema...
+2025-06-24 22:10:04,154 - SistemaAdaptativo - INFO - Sistema detenido correctamente
+2025-06-24 22:10:04,155 - ConexionLocal - INFO - Conexi髇 local cerrada
+2025-06-24 22:10:04,155 - AriaUniversal - INFO - Conexi髇 local cerrada
+2025-06-24 22:10:04,155 - ConexionNube - INFO - Conexi髇 nube cerrada
+2025-06-24 22:10:04,155 - AriaUniversal - INFO - Conexi髇 nube cerrada
+2025-06-24 22:10:04,156 - ConexionOneDrive - INFO - Conexi髇 OneDrive cerrada
+2025-06-24 22:10:04,156 - AriaUniversal - INFO - Conexi髇 onedrive cerrada
+2025-06-24 22:10:04,156 - ConexionSD - INFO - Conexi髇 SD cerrada
+2025-06-24 22:10:04,156 - AriaUniversal - INFO - Conexi髇 sd cerrada
+2025-06-24 22:10:04,156 - ConexionServidor - INFO - Conexi髇 servidor cerrada
+2025-06-24 22:10:04,157 - AriaUniversal - INFO - Conexi髇 servidor cerrada
+2025-06-24 22:10:04,157 - Contenedor - INFO - Conexi髇 contenedor cerrada
+2025-06-24 22:10:04,157 - AriaUniversal - INFO - Conexi髇 contenedor cerrada
+2025-06-24 22:10:04,157 - AriaUniversal - INFO - Sistema detenido correctamente
+2025-06-24 22:12:16,067 - GestorTareas - INFO - Worker 0 iniciado
+2025-06-24 22:12:16,157 - GestorTareas - INFO - Worker 1 iniciado
+2025-06-24 22:12:16,157 - GestorTareas - INFO - Worker 2 iniciado
+2025-06-24 22:12:16,157 - GestorTareas - INFO - Worker 3 iniciado
+2025-06-24 22:12:16,158 - PersonalidadCentral - INFO - Sistema de personalidad configurado
+2025-06-24 22:12:16,158 - GestorAdministrativo - INFO - Sistema administrativo configurado
+2025-06-24 22:12:16,158 - InteligenciaMilitar - INFO - Sistema de inteligencia configurado con nivel confidencial
+2025-06-24 22:12:16,158 - AriaUniversal - INFO - Iniciando Sistema IA Aria Universal...
+2025-06-24 22:12:16,158 - ConexionLocal - INFO - Conexi髇 local inicializada
+2025-06-24 22:12:16,159 - AriaUniversal - INFO - Conexi髇 local inicializada
+2025-06-24 22:12:16,159 - ConexionNube - INFO - Conexi髇 nube inicializada
+2025-06-24 22:12:16,159 - AriaUniversal - INFO - Conexi髇 nube inicializada
+2025-06-24 22:12:16,159 - ConexionOneDrive - INFO - Conexi髇 OneDrive inicializada
+2025-06-24 22:12:16,159 - AriaUniversal - INFO - Conexi髇 onedrive inicializada
+2025-06-24 22:12:16,199 - ConexionSD - INFO - Conexi髇 SD inicializada
+2025-06-24 22:12:16,199 - AriaUniversal - INFO - Conexi髇 sd inicializada
+2025-06-24 22:12:16,200 - ConexionServidor - INFO - Conexi髇 servidor inicializada (localhost:8080)
+2025-06-24 22:12:16,201 - AriaUniversal - INFO - Conexi髇 servidor inicializada
+2025-06-24 22:12:16,215 - Contenedor - ERROR - Docker no disponible: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-06-24 22:12:16,215 - AriaUniversal - WARNING - No se pudo inicializar conexi髇 contenedor
+2025-06-24 22:12:16,215 - AriaUniversal - INFO - Sistema Aria Universal inicializado correctamente
+2025-06-24 22:12:16,215 - AriaUniversal - INFO - Iniciando demostracion de capacidades...
+2025-06-24 22:12:16,215 - AriaUniversal - INFO - Demostrando capacidades administrativas...
+2025-06-24 22:12:16,215 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: administrativo
+2025-06-24 22:12:16,215 - SistemaAdaptativo - INFO - Transici髇 completada: hibrido -> administrativo
+2025-06-24 22:12:16,215 - AriaUniversal - INFO - Modo cambiado a: administrativo
+2025-06-24 22:12:16,215 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-24 22:12:16,216 - GestorTareas - INFO - Tarea TAREA-1750795936 agregada con prioridad ALTA
+2025-06-24 22:12:16,231 - GestorAdministrativo - INFO - Documento DOC-1750795936 generado exitosamente
+2025-06-24 22:12:16,316 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 22:12:16,317 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 22:12:16,317 - AriaUniversal - INFO - Resultado administrativo: True
+2025-06-24 22:12:16,317 - AriaUniversal - INFO - Demostrando capacidades militares...
+2025-06-24 22:12:16,318 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: militar
+2025-06-24 22:12:16,318 - SistemaAdaptativo - INFO - Transici髇 completada: administrativo -> militar
+2025-06-24 22:12:16,318 - AriaUniversal - INFO - Modo cambiado a: militar
+2025-06-24 22:12:16,318 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-24 22:12:16,318 - GestorTareas - INFO - Tarea TAREA-1750795936 agregada con prioridad ALTA
+2025-06-24 22:12:16,338 - InteligenciaMilitar - INFO - Amenaza AMZ-1750795936 analizada. Nivel de riesgo: 0.5
+2025-06-24 22:12:16,419 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 22:12:16,420 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 22:12:16,420 - AriaUniversal - INFO - Resultado militar: True
+2025-06-24 22:12:16,420 - AriaUniversal - INFO - Demostrando modo hibrido...
+2025-06-24 22:12:16,420 - SistemaAdaptativo - INFO - Cambiando modo de operaci髇 a: hibrido
+2025-06-24 22:12:16,420 - SistemaAdaptativo - INFO - Transici髇 completada: militar -> hibrido
+2025-06-24 22:12:16,420 - AriaUniversal - INFO - Modo cambiado a: hibrido
+2025-06-24 22:12:16,420 - AriaUniversal - INFO - Procesando solicitud: administrativo
+2025-06-24 22:12:16,421 - GestorTareas - INFO - Tarea TAREA-1750795936 agregada con prioridad ALTA
+2025-06-24 22:12:16,447 - GestorAdministrativo - INFO - Documento DOC-1750795936 generado exitosamente
+2025-06-24 22:12:16,521 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 22:12:16,522 - AriaUniversal - INFO - Solicitud procesada en 0.10s
+2025-06-24 22:12:16,522 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-24 22:12:16,522 - AriaUniversal - INFO - Procesando solicitud: militar
+2025-06-24 22:12:16,522 - GestorTareas - INFO - Tarea TAREA-1750795936 agregada con prioridad ALTA
+2025-06-24 22:12:16,542 - InteligenciaMilitar - INFO - Amenaza AMZ-1750795936 analizada. Nivel de riesgo: 0.5
+2025-06-24 22:12:16,634 - AriaUniversal - INFO - Solicitud procesada en 0.11s
+2025-06-24 22:12:16,634 - AriaUniversal - INFO - Solicitud procesada en 0.11s
+2025-06-24 22:12:16,634 - AriaUniversal - INFO - Procesamiento hibrido: True
+2025-06-24 22:12:16,634 - AriaUniversal - INFO - Reporte final generado
+2025-06-24 22:12:16,635 - AriaUniversal - INFO - Deteniendo Sistema Aria Universal...
+2025-06-24 22:12:16,635 - SistemaAdaptativo - INFO - Iniciando detenci髇 del sistema...
+2025-06-24 22:12:26,635 - SistemaAdaptativo - INFO - Sistema detenido correctamente
+2025-06-24 22:12:26,635 - ConexionLocal - INFO - Conexi髇 local cerrada
+2025-06-24 22:12:26,636 - AriaUniversal - INFO - Conexi髇 local cerrada
+2025-06-24 22:12:26,636 - ConexionNube - INFO - Conexi髇 nube cerrada
+2025-06-24 22:12:26,636 - AriaUniversal - INFO - Conexi髇 nube cerrada
+2025-06-24 22:12:26,636 - ConexionOneDrive - INFO - Conexi髇 OneDrive cerrada
+2025-06-24 22:12:26,637 - AriaUniversal - INFO - Conexi髇 onedrive cerrada
+2025-06-24 22:12:26,637 - ConexionSD - INFO - Conexi髇 SD cerrada
+2025-06-24 22:12:26,638 - AriaUniversal - INFO - Conexi髇 sd cerrada
+2025-06-24 22:12:26,638 - ConexionServidor - INFO - Conexi髇 servidor cerrada
+2025-06-24 22:12:26,639 - AriaUniversal - INFO - Conexi髇 servidor cerrada
+2025-06-24 22:12:26,639 - Contenedor - INFO - Conexi髇 contenedor cerrada
+2025-06-24 22:12:26,639 - AriaUniversal - INFO - Conexi髇 contenedor cerrada
+2025-06-24 22:12:26,640 - AriaUniversal - INFO - Sistema detenido correctamente

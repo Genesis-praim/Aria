@@ -1,0 +1,16 @@
+# Dependencias principales
+SpeechRecognition>=3.8.1
+pyaudio>=0.2.11  # Para entrada de audio
+pathlib>=1.0.1   # Para manejo de rutas
+typing>=3.7.4.3  # Para type hints
+
+# Dependencias opcionales para funcionalidades extendidas
+numpy>=1.19.5    # Para procesamiento numérico
+pandas>=1.2.4    # Para análisis de datos
+scikit-learn>=0.24.2  # Para machine learning básico
+nltk>=3.6.2      # Para procesamiento de lenguaje natural
+
+# Dependencias de desarrollo
+pytest>=6.2.4    # Para testing
+black>=21.5b2    # Para formateo de código
+flake8>=3.9.2    # Para linting
